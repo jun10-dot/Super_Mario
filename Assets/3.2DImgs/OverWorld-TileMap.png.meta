@@ -1,0 +1,4109 @@
+fileFormatVersion: 2
+guid: dd58a3d49c829c5498e17e347ddb5a62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverWorld-TileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fca14576efaf4a853b25d0ec9c3df
+      internalID: 875844663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0549d2de8ba2334f9bd58aee80f1431
+      internalID: 1201649193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453dd41c0a1d7e74dab766f1ac9a6d55
+      internalID: -966546513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a6bce442ab24b4b892115453c7fd2d
+      internalID: -2080798316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d9f79ca384574596072b2365e8601
+      internalID: -390333376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24805249e9cd44d8aca9f50e663c92
+      internalID: 808271984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca72c45555202645860cc9aef6d417a
+      internalID: -808082847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b586f19b39ee94aa7d6a9ac956fdea
+      internalID: 1764429655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2aa0f13db562c4abd50776eeb9b75d
+      internalID: 604707664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dea093937a5f14da7e2a07e20fb808
+      internalID: 1736893494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca8130b1b06d640ad09634a32da00a
+      internalID: 324946718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c671869c9ce994a8d2c3e84ba71be8
+      internalID: 1342448839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0dd792451ec4841b4b13f959f8851b
+      internalID: 799901372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec0d0c1c32d6c429389a9765ee861e
+      internalID: 735244884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974bd0684904dfb4fa43f2695997de96
+      internalID: 1659246783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77428f7092fbc37488146d7a096a1fab
+      internalID: 1923247514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e445b9786fb50049b18cb8ec51f3571
+      internalID: 582402500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8dc6c66540ce4eb422d8b0837e851
+      internalID: 1468701003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327fbc80f323104999911418d30e098
+      internalID: 629194593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc6a00f14bf0664fbc8b9c4586d4a74
+      internalID: 838870218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a877d2ca4f3ac47bee75d2f7b91052
+      internalID: -466207590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b360036c89d3b1e4aba4eb1083ae6dd3
+      internalID: 1617429045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a5f4b0ec2bbf40a3ceca945cbfc27
+      internalID: 78005424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabefd8c4c58f9846873978646793399
+      internalID: 358885565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc5d80ff4d87443a5762d42b4db9b5
+      internalID: -698205302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd794bbba727045bf6682e8a8046c1
+      internalID: 271309830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3f9629da6f7a428fa33de0c8ea2b9
+      internalID: -395613416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d585fd2b32c6f84a83475d14863f456
+      internalID: -385651285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdbcdedcb776414b964835dd2fc466f
+      internalID: 1422084127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37ed7a07ee6894b8e2cb382f12aad7
+      internalID: 412150433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22d78cd3d55db40af8fb9fa54af6a5
+      internalID: 629351345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bbab7d24d9164a81daddcadf5f5a2
+      internalID: 293856431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc06afccf2a51348b180a449f4abec2
+      internalID: -1695136888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6551c527dd46041b6eca5906ce0639
+      internalID: -1385576526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d58c9cb24d62d499515db8fd7fa397
+      internalID: 1692568113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070aa7da07356b4c8b9ef8b73ad437d
+      internalID: -1125528994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e4278b5ab13e84abc135f48e9942e8
+      internalID: -1289133423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f77438c0d1f74d8882c9c886f4b2c
+      internalID: 2042807820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd36a6cf0ab34ca488be8958578e59ee
+      internalID: -19082230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82233720bb32d1459834269e45cd137
+      internalID: -1084168111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21760358233dbd488088b6f153345bf
+      internalID: 1017717606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e82e5ded37f78d48b6a0c9706aec144
+      internalID: 1475555236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644719b01acb8c4ea82d0c071be63d8
+      internalID: 1185078554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3d0e62b092404182b857716fd964f
+      internalID: 1120129703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929b9ae7f4182f4696f550181772bea
+      internalID: -842077559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e07bd163560c458ae03770c405263
+      internalID: 914418163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ac5785ccc1c1e4f89614bd83ad0592
+      internalID: 1863663184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11decfc81e92e1479be74998646c7b9
+      internalID: 1267452404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ion
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de2a15c47a67244987444aa1ba7f88
+      internalID: -1200579656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713f0f1d738f6f44bbefe51ddce6629
+      internalID: 1449949742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bb05bad772b04ab9f000bd07b2d7d
+      internalID: 1631137326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fdd84bf2b2b0a4eab4ad08599398f1
+      internalID: 1366418367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeacf76f0567ab4b865aa710b3b5bc3
+      internalID: -1716109293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078760debf51fab45b5a1d86ec70c442
+      internalID: -741197956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb14fef7aa40cd428635b1cc6b61337
+      internalID: 2051087013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a959036e3ed8ac4fb1905d3e9685a7e
+      internalID: -694503683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062649f36852ab4eb27c4a397270225
+      internalID: -1155787521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3564443121135240b3a2774037abf79
+      internalID: 1174184738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487eb2fcf0be7ed4089b6f09edbca1d8
+      internalID: -1525951699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45458492e87e9349b15c8085d2380df
+      internalID: -1122256155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloude6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8591d0787105d441884ff399d619b14
+      internalID: 284742226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3ae908c8be804ca7e23091ed8b104
+      internalID: 1310645094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4355d8f1fcdebf4196716c017bc83b8
+      internalID: -1294277623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 138.16667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04a661bd4aeac4ba93a81f11443c5e
+      internalID: -297205480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54919cfafeb067419df7b31eeba5165
+      internalID: -1434543209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aaad7d0a61c784aafa9e4c952d3174
+      internalID: 1965395528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70121f3e1e622e4591bc2789dfd428e
+      internalID: -518690868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_67
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8555ef7b79794abe505f460dde53f
+      internalID: 1431460698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b606bad51de4864dbd3bb030a65201f
+      internalID: -1255615329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a636ac70f1d4499d85b84fcbd115f
+      internalID: -2023803165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2dc0f6b80c7040a2b2b31a014ff86
+      internalID: -1843405354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_71
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1bd6ecb86d0ce4d948fb1231ba7eee
+      internalID: 736843159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a63619a8f724745938aa54988d2015
+      internalID: 804913681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f1038a9d659a4ba6d406632d07d94
+      internalID: -1837565038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f024b39b378e44188206008231dd99
+      internalID: -1673117372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f9a3701df8bcd48a9d8185a943ae3a
+      internalID: 1695983770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd55703d578a0e419b63f2bd09c1ea0
+      internalID: -421086228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0749659bdd0424eb565e2f3523f0b3
+      internalID: -822816914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d44e26cf430c4c95a78f08bc2315a
+      internalID: 346400269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 122.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93991c024621f3458894a7e430b1c47
+      internalID: 1459166584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195f17e84159c842ba16e042c63787d
+      internalID: -1075110541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd440052b01b84fa8d69ca6b31c47b
+      internalID: 2010858686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c33344caf0a36489e2d996b42e2050
+      internalID: -2145749201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08638364d4ad94dbcdf94124c432db
+      internalID: 648537967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5599fd4c7af23ba449fc663402366156
+      internalID: -1024874174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da216f52ef71b64c850945404277019
+      internalID: -1324536327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b909b182124f64e9a835d5248ddab5
+      internalID: 104497501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_87
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90611d1c8bdff64eaf4b265db1b8625
+      internalID: -349572444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83e9f5063f60de448a447839a53d2b9
+      internalID: -438231267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e3273254187440ba55dc5e65c3635
+      internalID: 1444163069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_90
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e32671310fce43a7af3dbe091e6dc
+      internalID: -1802072305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_91
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8faf80f9cdda6e4abc9f1f5d81a7ff4
+      internalID: 2053664297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fac58add3aeb4ea43dbac9a2fba8f
+      internalID: 404036826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b21bde09d56794eaf72c0ebcf59d3a
+      internalID: 197482473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b61eed7c9a104ebe2ce740a75372d
+      internalID: 1159840862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 106.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba9db33d8cc782499c2456002278b25
+      internalID: -1258631119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a79baea6de28449eb1696ef3a97e0
+      internalID: -164854746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d318f8666fef2a4895c8b932fddc88e
+      internalID: -1929466680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24543f2ec80f31f418de9dbda7df2369
+      internalID: 230625065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_99
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d5f98990efa94aa714df5e31b81f0
+      internalID: -2050496900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48df7ab35b6cb4cafd5e6a10572d97
+      internalID: 1616000988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474987d613cb6a42985609e6e38940a
+      internalID: 2121365643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac82be49e037348bbe9542e9fb983b
+      internalID: -1679804752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_103
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb107c17dceefa4f877cf859a8ab070
+      internalID: 2067492442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80052f0a7bb334f929ae6dd89a8e5c
+      internalID: -384782679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d99ddc861d31548b89ba8985c502eb
+      internalID: 873026579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba5af42445a544d9e64f48bb2c3bad
+      internalID: 1415892862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb619218bf68440a75b644a27f0cff
+      internalID: -1816833595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_108
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a9b7a360a27f49abbab6b68dc3322
+      internalID: -2069899157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e1e501762c6148bf296aec452e438
+      internalID: -360752429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_110
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862858f06c5a39458539f9159be9f02
+      internalID: -100046814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_111
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25ca711cfbfe7478ef3d9fcd2d8420
+      internalID: 1108802375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37358cccabc1a4b8ef03c99c199afe
+      internalID: 743406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ca9a021e078d4ab759001bd168764
+      internalID: -820792944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffb917b192f9b4ca3655c80d98f3f2
+      internalID: -1830991341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd2f4dc2b41ef4bb6f8d1b26dc3a33
+      internalID: -995882469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_116
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935e779ce569674ca965477cc6202a0
+      internalID: 1894985166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_117
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40061f5161a234c44a93ba967ae3fd6a
+      internalID: 980450593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_118
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc01e52690c2c41b196b14c2c87879
+      internalID: -1316197652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1065c305b230824b8f6443d35ee23ac
+      internalID: 1723235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e06ecf27cce4c4891afd31f9faac01
+      internalID: 1228314433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_121
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29b4beaf5085f849a3cfe4871626603
+      internalID: 403028598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d063709a11664fbbaa7e8e0f69319
+      internalID: 1867703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a897659e4837141b9747f97e592eb2
+      internalID: -1332137371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d05034e01ebd49be075991ae5d4f1
+      internalID: 2109416263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_125
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ecd3b6f09fc544d90661ca50ca4dbd
+      internalID: -196504727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_126
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aec6b53af00c54baf87b848b2350f2
+      internalID: -389406317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74.166664
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1f97bcc7eeff4691ea21dec26745c
+      internalID: -1337834272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: po
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903770ff6f8a3f4cb593ce5a23e00ff
+      internalID: -147269527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_131
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c16fc06c0a484e99571c2d9790d8b
+      internalID: -1441437141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5f6506642182408a027394b0e2620
+      internalID: -365292739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_133
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9022b177719993498eb81408cb6cac9
+      internalID: -1172228480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_134
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296239c756e2624794932f484974e09
+      internalID: -224052828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d2cdaa408c9e4e81bc7202fde4b1a
+      internalID: 1645655491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3bf53ff123ee24d80c0e46a273bbf3
+      internalID: -528759586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_137
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5cdc27b247ec49b3c39aceea3c825
+      internalID: -1805918367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e174e540756f428385f3fc41362d3
+      internalID: -426296561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46a04eef07fa141853f5b8c62804eb
+      internalID: 1668177342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246d6b7c9a382d49aaa65651523e71a
+      internalID: -822313508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_141
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2831de3273aa40b6431a5fe7c14be
+      internalID: 1859883481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_142
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b7ad34ffe40844aa60581b94988e2
+      internalID: -1006533120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 58.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe11bbf31628c040919209e4e2bf075
+      internalID: 1662796888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pol
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f02bc08235e74bb9c75eb6c8109aa
+      internalID: -2065151325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7899cf06d1f8847ba696a3f2e4d0c8
+      internalID: 299080155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a43c36e8a506d45a8dce4748b87d2f
+      internalID: -1189495106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7ea450564eb24381c98356cb9b4b1
+      internalID: -1759335186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ef90994768094f9d33f9aa4c69265
+      internalID: 2021566012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec204722b26be804f9276ca7641dce72
+      internalID: -1379131608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9e147e1df5fb44fb1674b6d65ac8a8
+      internalID: -504591347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f6894ca2571446a2f6e2a0115e4bb
+      internalID: 373172175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 42.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760af53462091e3489e9a12c243c889c
+      internalID: -1499019345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_154
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0c9c77a83e5940bba3401ed9c4a3c
+      internalID: -1430460629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cf5579112347e4cacbe41bca33e35d
+      internalID: 1086473142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d67abab2396f54b91f26f0ce5fe26a
+      internalID: 1001503363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_157
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 42.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5c7b8a7d7c48479f1f85bcd283e7b
+      internalID: 1520777896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_158
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 42.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a7fdb0af6b61439dde5c8612b77ce
+      internalID: -15872409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 42.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6ed41bbcff8942bdac47550a49a81
+      internalID: 170394374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e17328108265de4aba6ad0058c952fe
+      internalID: 582922019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220d04af1027bb43a66b79237111bee
+      internalID: 1163422544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holl6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4cae4bccf547478a3278468c5e476
+      internalID: -1444592761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_169
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb7337e9d123e4cbfea0e1b98587ac
+      internalID: -856978237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c864e898f06f479792572f58dca4a
+      internalID: 1412000436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_171
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90041d155622eda4fbc6e1f1804a99c9
+      internalID: 1932307627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_172
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110055734d4df847af774f7385762ca
+      internalID: -1229572717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_173
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b42d747e8814a448aae820a0cdb603
+      internalID: 1771992346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_174
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7190fe2b8a2741bf6a33bdd033e0c
+      internalID: -1644098116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_175
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 26.166668
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698fe79932561541bd5b84d19d32d79
+      internalID: 1338562524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b838d6c321e6d545bc3a337a70c2338
+      internalID: 2067510746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ac8d3c4f8fc44ba3a75e09072c37c
+      internalID: 2089980829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a6158bdc9ec22438b522965ea6d4b2
+      internalID: 1407827893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7051074964db2b41be04155cd8133c0
+      internalID: 464757002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2645b0bcda875d34dbb0058413153b89
+      internalID: 1076445807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee19fa21adb32e48956fbcf025ea35f
+      internalID: 644495084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_185
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522c6e97b7f5924e98dfe701d7ff1d8
+      internalID: -1617809296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_186
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb2dced46aba145b523a3f1d588d7e
+      internalID: 525669135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_187
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4db856f5316d4b872a2920d0085ca
+      internalID: -265674023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_188
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873bf23abb2e0084384e100ae6a96094
+      internalID: 816606746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_189
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe3edcb709dc840a1454ee99e317c7
+      internalID: -2116872974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_190
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4474bf478eb74c899de62680fa363
+      internalID: 1443581534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverWorld-TileMap_191
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10.166667
+        width: 16
+        height: 15.833333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b3d0f7da757f64fb09af27d17a879b
+      internalID: -888480681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Background: 1174184738
+      Coin1: -426296561
+      Coin2: 1668177342
+      Coin3: -822313508
+      Flag1: 373172175
+      Flag2: 644495084
+      OverWorld-TileMap_0: 875844663
+      OverWorld-TileMap_1: 1201649193
+      OverWorld-TileMap_10: 324946718
+      OverWorld-TileMap_100: 1616000988
+      OverWorld-TileMap_101: 2121365643
+      OverWorld-TileMap_102: -1679804752
+      OverWorld-TileMap_103: 2067492442
+      OverWorld-TileMap_104: -384782679
+      OverWorld-TileMap_105: 873026579
+      OverWorld-TileMap_106: 1415892862
+      OverWorld-TileMap_107: -1816833595
+      OverWorld-TileMap_108: -2069899157
+      OverWorld-TileMap_109: -360752429
+      OverWorld-TileMap_11: 1342448839
+      OverWorld-TileMap_110: -100046814
+      OverWorld-TileMap_111: 1108802375
+      OverWorld-TileMap_112: 743406875
+      OverWorld-TileMap_113: -820792944
+      OverWorld-TileMap_114: -1830991341
+      OverWorld-TileMap_115: -995882469
+      OverWorld-TileMap_116: 1894985166
+      OverWorld-TileMap_117: 980450593
+      OverWorld-TileMap_118: -1316197652
+      OverWorld-TileMap_12: 799901372
+      OverWorld-TileMap_121: 403028598
+      OverWorld-TileMap_125: -196504727
+      OverWorld-TileMap_126: -389406317
+      OverWorld-TileMap_127: -1337834272
+      OverWorld-TileMap_128: -1003180670
+      OverWorld-TileMap_13: 735244884
+      OverWorld-TileMap_130: 1906455279
+      OverWorld-TileMap_131: -1441437141
+      OverWorld-TileMap_132: -365292739
+      OverWorld-TileMap_133: -1172228480
+      OverWorld-TileMap_134: -224052828
+      OverWorld-TileMap_137: -1805918367
+      OverWorld-TileMap_14: 1659246783
+      OverWorld-TileMap_141: 1859883481
+      OverWorld-TileMap_142: -1006533120
+      OverWorld-TileMap_143: 1662796888
+      OverWorld-TileMap_145: -641288745
+      OverWorld-TileMap_147: -1189495106
+      OverWorld-TileMap_15: 1923247514
+      OverWorld-TileMap_153: -1499019345
+      OverWorld-TileMap_154: -1430460629
+      OverWorld-TileMap_155: 1086473142
+      OverWorld-TileMap_156: 1001503363
+      OverWorld-TileMap_157: 1520777896
+      OverWorld-TileMap_158: -15872409
+      OverWorld-TileMap_159: 170394374
+      OverWorld-TileMap_168: -890290735
+      OverWorld-TileMap_169: -856978237
+      OverWorld-TileMap_17: 1468701003
+      OverWorld-TileMap_170: 1412000436
+      OverWorld-TileMap_171: 1932307627
+      OverWorld-TileMap_172: -1229572717
+      OverWorld-TileMap_173: 1771992346
+      OverWorld-TileMap_174: -1644098116
+      OverWorld-TileMap_175: 1338562524
+      OverWorld-TileMap_18: 629194593
+      OverWorld-TileMap_181: -1195414958
+      OverWorld-TileMap_182: 1107180505
+      OverWorld-TileMap_183: 252580458
+      OverWorld-TileMap_185: -1617809296
+      OverWorld-TileMap_186: 525669135
+      OverWorld-TileMap_187: -265674023
+      OverWorld-TileMap_188: 816606746
+      OverWorld-TileMap_189: -2116872974
+      OverWorld-TileMap_19: 838870218
+      OverWorld-TileMap_190: 1443581534
+      OverWorld-TileMap_191: -888480681
+      OverWorld-TileMap_2: -966546513
+      OverWorld-TileMap_20: -466207590
+      OverWorld-TileMap_21: 1617429045
+      OverWorld-TileMap_22: 78005424
+      OverWorld-TileMap_23: 358885565
+      OverWorld-TileMap_24: -698205302
+      OverWorld-TileMap_25: 271309830
+      OverWorld-TileMap_26: -395613416
+      OverWorld-TileMap_27: -385651285
+      OverWorld-TileMap_28: 1422084127
+      OverWorld-TileMap_29: 412150433
+      OverWorld-TileMap_3: -2080798316
+      OverWorld-TileMap_30: 629351345
+      OverWorld-TileMap_31: 293856431
+      OverWorld-TileMap_32: -1695136888
+      OverWorld-TileMap_33: -1385576526
+      OverWorld-TileMap_34: 1692568113
+      OverWorld-TileMap_35: -1125528994
+      OverWorld-TileMap_36: -1289133423
+      OverWorld-TileMap_37: 2042807820
+      OverWorld-TileMap_38: -19082230
+      OverWorld-TileMap_39: -1084168111
+      OverWorld-TileMap_4: -390333376
+      OverWorld-TileMap_40: 1017717606
+      OverWorld-TileMap_41: 1475555236
+      OverWorld-TileMap_45: 914418163
+      OverWorld-TileMap_46: 1863663184
+      OverWorld-TileMap_47: 1267452404
+      OverWorld-TileMap_49: 1449949742
+      OverWorld-TileMap_5: 808271984
+      OverWorld-TileMap_50: 1631137326
+      OverWorld-TileMap_51: 1366418367
+      OverWorld-TileMap_52: -1716109293
+      OverWorld-TileMap_53: -741197956
+      OverWorld-TileMap_54: 2051087013
+      OverWorld-TileMap_55: -694503683
+      OverWorld-TileMap_56: -1155787521
+      OverWorld-TileMap_6: -808082847
+      OverWorld-TileMap_61: 1310645094
+      OverWorld-TileMap_62: -1294277623
+      OverWorld-TileMap_63: -297205480
+      OverWorld-TileMap_64: -1434543209
+      OverWorld-TileMap_65: 1965395528
+      OverWorld-TileMap_66: -518690868
+      OverWorld-TileMap_67: 1431460698
+      OverWorld-TileMap_68: -1255615329
+      OverWorld-TileMap_69: -2023803165
+      OverWorld-TileMap_7: 1764429655
+      OverWorld-TileMap_70: -1843405354
+      OverWorld-TileMap_71: 736843159
+      OverWorld-TileMap_72: 804913681
+      OverWorld-TileMap_73: -1837565038
+      OverWorld-TileMap_74: -1673117372
+      OverWorld-TileMap_75: 1695983770
+      OverWorld-TileMap_76: -421086228
+      OverWorld-TileMap_77: -822816914
+      OverWorld-TileMap_78: 346400269
+      OverWorld-TileMap_79: 1459166584
+      OverWorld-TileMap_8: 604707664
+      OverWorld-TileMap_80: -1075110541
+      OverWorld-TileMap_81: 2010858686
+      OverWorld-TileMap_82: -2145749201
+      OverWorld-TileMap_83: 648537967
+      OverWorld-TileMap_84: -1024874174
+      OverWorld-TileMap_85: -1324536327
+      OverWorld-TileMap_86: 104497501
+      OverWorld-TileMap_87: -349572444
+      OverWorld-TileMap_88: -438231267
+      OverWorld-TileMap_89: 1444163069
+      OverWorld-TileMap_9: 1736893494
+      OverWorld-TileMap_90: -1802072305
+      OverWorld-TileMap_91: 2053664297
+      OverWorld-TileMap_92: 404036826
+      OverWorld-TileMap_93: 197482473
+      OverWorld-TileMap_94: 1159840862
+      OverWorld-TileMap_95: -1258631119
+      OverWorld-TileMap_96: -164854746
+      OverWorld-TileMap_97: -1929466680
+      OverWorld-TileMap_98: 230625065
+      OverWorld-TileMap_99: -2050496900
+      cloude1: 1185078554
+      cloude2: 1120129703
+      cloude3: -842077559
+      cloude4: -1525951699
+      cloude5: -1122256155
+      cloude6: 284742226
+      floot: 582402500
+      hill1: -1759335186
+      hill10: -829706099
+      hill2: 2067510746
+      hill3: 2089980829
+      hill4: 1407827893
+      hill5: 464757002
+      hill6: 1076445807
+      hill8: -1386554723
+      holl1: 1723235263
+      holl10: 582922019
+      holl2: 1228314433
+      holl3: 1645655491
+      holl4: -528759586
+      holl5: -504591347
+      holl6: -1444592761
+      holl7: -1379131608
+      holl8: 1163422544
+      holl9: 2021566012
+      ion: -1200579656
+      p: 299080155
+      po: -147269527
+      pol: -2065151325
+      what: 1867703018
+      what1: -1332137371
+      what2: 2109416263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
