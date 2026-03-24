@@ -1,5 +1,7 @@
 # Super_Mario
 
+[게임 실행](https://github.com/jun10-dot/The_Asylum/releases/latest)
+
 [전체 플레이 영상 (YouTube)](https://youtu.be/VcpRu3NX5JY)
 
 ## 📍 프로젝트 소개
