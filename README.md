@@ -1,5 +1,7 @@
 # Super_Mario
 
+[전체 플레이 영상 (YouTube)](https://youtu.be/VcpRu3NX5JY)
+
 ## 📍 프로젝트 소개
 - 고전 2D 슈퍼마리오 게임을 모티브로 Unity로 제작한 게임 클론 프로젝트
 
